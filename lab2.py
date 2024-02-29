@@ -9,3 +9,8 @@ def command_line_arguments():
     print("Script and Variables:", script_name, variables_used)
 
 command_line_arguments()
+
+def helloWorld():
+    print('Hello World')
+
+helloWorld()
